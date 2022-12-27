@@ -1,0 +1,3 @@
+#Ignore text files in .doc format
+
+*.doc
